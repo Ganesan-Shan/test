@@ -1,3 +1,8 @@
 This is githun testfile
+<<<<<<< HEAD
 today i have modified someting 
 tomorrow I will have modify something..
+=======
+i have done some chnages here
+>>>>>>> bc7b710d9fef80e5ed16665c3f3f712c8cb89b30
+again i have modified someting and will push through globally now
